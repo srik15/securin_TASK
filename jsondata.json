@@ -1,0 +1,14 @@
+{
+  "cars": 2,
+  "truck" : 10,
+  "name" : "sri",
+  "dic":   false,
+  "present" : null,
+  "DR":[{"col": "val"},["String", -5.0],2,1,"fib",true],
+  "nesting": {
+    "first": "val1",
+    "second": "val2"
+  },
+
+
+}

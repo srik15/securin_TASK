@@ -1,0 +1,42 @@
+<object>
+	<number name="cars">
+		2
+	</number>
+	<number name="truck">
+		10
+	</number>
+	<string name="name">
+		sri
+	</string>
+<object name="nesting">
+	<string name="first">
+		val1
+	</string>
+	<string name="second">
+		val2
+	</string>
+</object name="nesting">
+	<null name="present"/>
+ 	<array name="array">
+ 	<array name="array">
+		<string>
+			String
+		</string>
+	</array>
+		<number>
+			2
+		</number>
+		<number>
+			1
+		</number>
+		<string>
+			fib
+		</string>
+		<boolean>
+			true
+		</boolean>
+	</array>
+	<boolean name="dic">
+		false
+	</boolean>
+</object>
